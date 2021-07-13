@@ -1,23 +1,27 @@
-# Отчёт о тестировании "Credit Card Number Validator".
+# Отчёт о тестировании "KeyValidator".
 
 ## Краткое описание
 
-12.07.2021 - 13.07.2021 было проведено функциональное тестирование приложения "Credit Card Number Validator".
+13.07.2021 - 13.07.2021 было проведено функциональное тестирование приложения "KeyValidator".
 
-На тестирование затрачено: 4 часа
+На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/irikras/Credit-Card-Number-Validator/issues/1#issue-943405519
 
 ## Описание процесса тестирования
 
-Запустить программу с кодом, подставляя валидные и невалидные номера банковских карт.
+- Установить OpenJDK11 
+- Запустить git bush
+- Проверить работу приложения согласно руководству использования на валидность либо не вадидность ключей.
 
-В качестве тестовых данных использовались данные с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html#fakeNumbers:
-* Result is OK (по валидным номерам банковских карт)
-* Result is FAIL (по невалидным/фейковым номерам банковских карт)
+В качестве тестовых данных использовались данные:
+* https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
+Приложение запускается и совместимо с Java 11
+* https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md     
+    Приложение работает согласно руководству использования
 
 Тестирование производилось в следующем окружении:
 * Windows 10 Version 20H2
-* Java SE 11
+* Openjdk version "11.0.11" 2021-04-20
 
