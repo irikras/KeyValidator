@@ -2,12 +2,14 @@
 
 ## Краткое описание
 
-13.07.2021 - 13.07.2021 было проведено функциональное тестирование приложения "KeyValidator".
+13.07.2021 было проведено функциональное тестирование приложения "KeyValidator".
 
-На тестирование затрачено: 2 часа
+На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/irikras/Credit-Card-Number-Validator/issues/1#issue-943405519
+* https://github.com/irikras/KeyValidator/issues/1#issue-944064320
+* https://github.com/irikras/KeyValidator/issues/2#issue-944066959
+* https://github.com/irikras/KeyValidator/issues/3#issue-944068942
 
 ## Описание процесса тестирования
 
