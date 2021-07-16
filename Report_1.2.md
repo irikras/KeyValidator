@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Essue#1](https://github.com/irikras/KeyValidator/issues/1#issue-944064320)
-* [Essue#2](https://github.com/irikras/KeyValidator/issues/2#issue-944066959)
+* [Не валидный ключ отображается как валидный](https://github.com/irikras/KeyValidator/issues/1#issue-944064320)
+* [Валидный ключ отображается как не валидный](https://github.com/irikras/KeyValidator/issues/2#issue-944066959)
 
 
 ## Описание процесса тестирования
